@@ -1,4 +1,3 @@
-Voici quelques exercices pour vous aider à pratiquer la manipulation de tableaux en MQL5 :
 
 1. **Somme des éléments :**
    Écrivez un programme qui calcule la somme de tous les éléments d'un tableau donné.

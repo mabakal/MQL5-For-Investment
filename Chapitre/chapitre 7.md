@@ -94,5 +94,3 @@ Paramètre de la fonction :
 - `indicator_handle` : Le handle (identifiant) de l'indicateur personnalisé que vous souhaitez libérer. Ce handle doit correspondre à celui qui a été retourné lors de la création de l'indicateur à l'aide de la fonction `IndicatorCreate()`.
 
 La fonction `IndicatorRelease()` retourne `true` si les ressources de l'indicateur ont été libérées avec succès, sinon elle retourne `false`. Il est important de libérer les ressources des indicateurs personnalisés lorsque vous avez fini de les utiliser dans votre programme pour éviter les fuites de mémoire et optimiser les performances de votre script.
-
-Il est à noter que la libération d'un indicateur ne supprime pas nécessairement son affichage sur le graphique. Pour retirer l'indicateur du graphique, vous devez utiliser la fonction `ObjectDelete()` pour supprimer l'objet graphique correspondant à l'indicateur du graphique.

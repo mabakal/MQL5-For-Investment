@@ -1,4 +1,3 @@
-D'accord, voici quelques exercices liés au trading pour pratiquer la manipulation de variables en MQL5 :
 
 ### Exercice 1 : Calcul du profit potentiel
 Écrivez un programme en MQL5 qui calcule le profit potentiel d'une position en fonction du prix d'entrée, du prix de sortie et du nombre de lots échangés. Affichez le résultat.

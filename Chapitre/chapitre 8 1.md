@@ -10,10 +10,6 @@ En trading financier, notamment sur les marchés boursiers et sur le marché des
 2. **Ask (Offre de vente) :**
    Le prix "Ask" représente le prix auquel les traders sont prêts à vendre un actif financier. C'est le prix le plus bas auquel un vendeur est prêt à vendre l'actif. Lorsque vous voyez un prix "Ask", cela signifie que c'est le prix auquel vous pouvez acheter l'actif si vous êtes un acheteur sur le marché.
 
-Pour résumer :
-- Le prix "Bid" est toujours inférieur au prix "Ask".
-- Le prix "Bid" est le prix auquel les acheteurs sont prêts à acheter.
-- Le prix "Ask" est le prix auquel les vendeurs sont prêts à vendre.
 
 La différence entre le prix "Ask" et le prix "Bid" est appelée "spread". Le spread représente le coût de transaction pour les traders et constitue la marge bénéficiaire des courtiers.
 

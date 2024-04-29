@@ -1,4 +1,3 @@
-Bien sûr ! Voici quelques exercices liés à la manipulation de fonctions en MQL5 :
 
 1. **Création de fonctions simples :**
    Écrivez une fonction qui prend deux nombres en entrée et renvoie leur somme. Appelez cette fonction avec différents jeux de nombres pour vérifier son fonctionnement.
@@ -24,7 +23,6 @@ Bien sûr ! Voici quelques exercices liés à la manipulation de fonctions en MQ
 ### Autres
 
 
-Bien sûr ! Voici quelques exercices supplémentaires sur les fonctions mathématiques en MQL5 :
 
 1. **Calcul de la moyenne :**
    Écrivez une fonction qui prend un tableau de nombres en entrée et renvoie leur moyenne. Appelez cette fonction avec différents tableaux pour calculer leur moyenne.
@@ -55,5 +53,3 @@ Bien sûr ! Voici quelques exercices supplémentaires sur les fonctions mathéma
 
 10. **Calcul de la fonction exponentielle :**
     Écrivez une fonction qui prend un nombre réel en entrée et renvoie sa valeur exponentielle. Utilisez la série de Taylor pour approximer la fonction exponentielle.
-
-Ces exercices vous permettront de pratiquer l'utilisation de fonctions pour résoudre divers problèmes mathématiques en MQL5.

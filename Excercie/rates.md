@@ -1,4 +1,3 @@
-Bien sûr ! Voici quelques exercices que vous pouvez réaliser pour vous familiariser avec la structure `MqlRates` et son utilisation en MQL5 :
 
 1. **Affichage des données :**
    - Écrivez un programme qui affiche les valeurs des membres de la structure `MqlRates` pour une barre de prix donnée.

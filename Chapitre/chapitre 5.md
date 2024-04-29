@@ -186,7 +186,6 @@ Organiser le code est une pratique importante dans le développement de logiciel
 
 - **Performance :** Bien que l'organisation du code en soi n'ait pas d'impact direct sur les performances d'un programme, elle peut indirectement contribuer à une meilleure performance en permettant une meilleure gestion des ressources et une écriture de code plus efficace.
 
-En résumé, organiser le code est essentiel pour faciliter la compréhension, la maintenance, la réutilisabilité et la collaboration dans le développement de logiciels. C'est une pratique importante qui contribue à la qualité et à la durabilité des projets logiciels.
 
 1. Les includes
 

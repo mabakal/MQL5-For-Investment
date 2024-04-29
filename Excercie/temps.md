@@ -1,4 +1,3 @@
-Voici quelques exercices pour vous aider à pratiquer la manipulation du temps en MQL5 :
 
 1. **Affichage de l'heure actuelle :**
    Écrivez un programme qui affiche l'heure actuelle au format "hh:mm:ss".

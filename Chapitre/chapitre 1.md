@@ -156,9 +156,6 @@ Les énumérations sont utiles pour rendre votre code plus lisible, en remplaça
 
 ### Dates
 
-En MQL5, les dates sont représentées par le type de données datetime. Le type datetime est un entier 64 bits qui représente le nombre de secondes écoulées depuis le 1er janvier 1970 à 00:00:00 heure UTC (temps universel coordonné). Les dates sont largement utilisées dans le trading algorithmique pour effectuer des calculs temporels et pour identifier les moments précis dans le temps.
-
-
 En MQL5, les dates sont représentées par le type de données `datetime`. Le type `datetime` est un entier 64 bits qui représente le nombre de secondes écoulées depuis le 1er janvier 1970 à 00:00:00 heure UTC (temps universel coordonné). Les dates sont largement utilisées dans le trading algorithmique pour effectuer des calculs temporels et pour identifier les moments précis dans le temps.
 
 Voici quelques concepts importants liés aux dates en MQL5 :

@@ -1,6 +1,6 @@
 ### Excercice sur les indicateurs
 
-Voici les formules mathématiques de quelques indicateurs populaires utilisés en analyse technique :
+Reprogrammer ces indicateurs
 
 1. **Moyenne mobile simple (SMA) :**
    
@@ -39,7 +39,6 @@ Voici les formules mathématiques de quelques indicateurs populaires utilisés e
 
    Où \( \text{Gain}[i] \) est la différence entre les prix de clôture actuel et précédent si positive, et \( \text{Perte}[i] \) est la différence entre les prix de clôture actuel et précédent si négative.
 
-Bien sûr, voici quelques autres formules mathématiques pour des indicateurs populaires en analyse technique :
 
 5. **Moyenne mobile pondérée (WMA) :**
 
@@ -72,4 +71,3 @@ Bien sûr, voici quelques autres formules mathématiques pour des indicateurs po
 
    Où \( \text{High} \) et \( \text{Low} \) sont les plus hauts et les plus bas des prix de la période, respectivement, et \( \text{Close précédent} \) est le prix de clôture de la période précédente.
 
-Ces formules représentent quelques-uns des indicateurs les plus utilisés en analyse technique. Chaque indicateur a ses propres variations et paramètres de calcul, mais ces formules fournissent une base pour comprendre leur fonctionnement et leur utilisation.
