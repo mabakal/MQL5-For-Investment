@@ -1,5 +1,4 @@
 
-
 1. **Inversion de chaîne :**
    Écrivez un programme qui prend une chaîne de caractères en entrée et renvoie une chaîne inversée. Par exemple, si la chaîne d'entrée est "hello", le programme doit renvoyer "olleh".
 

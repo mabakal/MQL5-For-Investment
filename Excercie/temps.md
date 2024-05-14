@@ -1,4 +1,3 @@
-
 1. **Affichage de l'heure actuelle :**
    Écrivez un programme qui affiche l'heure actuelle au format "hh:mm:ss".
 

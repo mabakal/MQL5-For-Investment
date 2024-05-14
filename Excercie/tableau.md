@@ -82,5 +82,3 @@ Voici quelques exercices pour vous aider à pratiquer la manipulation de tableau
 
 10. **Validation de matrice identité :**
     Écrivez un programme qui vérifie si une matrice donnée est une matrice identité.
-
-Ces exercices devraient vous aider à pratiquer différentes opérations de manipulation de tableaux à deux dimensions en MQL5. Commencez par un exercice simple et progressez vers des exercices plus complexes à mesure que vous gagnez en confiance dans votre capacité à manipuler des tableaux à deux dimensions en MQL5.
